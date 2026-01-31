@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -14,7 +7,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
->>>>>>> cc03e5005234629aae41bceb39b23ce82f0abf8e
 .Python
 build/
 develop-eggs/
@@ -28,53 +20,6 @@ parts/
 sdist/
 var/
 wheels/
-<<<<<<< HEAD
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
-venv/
-env/
-ENV/
-.venv
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Data (uncomment if you don't want to track large data files)
-# data/*.csv
-# data/*.json
-# data/*.xlsx
-
-# Credentials and secrets
-.env
-*.key
-*.pem
-credentials.json
-
-# Model files (often large)
-*.pkl
-*.h5
-*.joblib
-models/
-
-# Logs
-*.log
-logs/
-=======
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -260,4 +205,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
->>>>>>> cc03e5005234629aae41bceb39b23ce82f0abf8e
